@@ -1,0 +1,38 @@
+{
+  "ProjectName": "RightFoot App",
+  "ProjectGuid": "8e46dda1-f421-49fd-b698-097f927bc906",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.RightFootApp",
+  "DisplayName": "RightFoot App",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{469859a2-9255-4ef1-b2b9-3829c43af406}",
+  "WP8ProductID": "{8bab6eff-59c0-4cf1-9b6a-35069a3c1dd6}",
+  "WPSdk": "8.0",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
